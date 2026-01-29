@@ -1,0 +1,8 @@
+# API Configuration File
+
+# Reddit API Keys
+REDDIT_CLIENT_ID = "NvXP97acAJ9S3hcUW_V6jw"
+REDDIT_CLIENT_SECRET = "42YyT8E8Puigp8ETgwiJHa7XzdVT2w"
+REDDIT_USERNAME = "GurComfortable2188"
+REDDIT_PASSWORD = "Lovkit1234#"
+REDDIT_USER_AGENT = "SentimentAnalyzer/1.0"
